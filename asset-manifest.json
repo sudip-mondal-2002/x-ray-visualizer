@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/x-ray-visualizer/static/css/main.8ac96ea1.css",
+    "main.js": "/x-ray-visualizer/static/js/main.aa9060cc.js",
+    "index.html": "/x-ray-visualizer/index.html",
+    "main.8ac96ea1.css.map": "/x-ray-visualizer/static/css/main.8ac96ea1.css.map",
+    "main.aa9060cc.js.map": "/x-ray-visualizer/static/js/main.aa9060cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac96ea1.css",
+    "static/js/main.aa9060cc.js"
+  ]
+}
